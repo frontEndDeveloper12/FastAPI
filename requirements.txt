@@ -18,3 +18,4 @@ pandas==2.0.0
 numpy==1.23.5
 scikit-learn==1.2.2
 matplotlib==3.7.1
+bz2file==0.98
